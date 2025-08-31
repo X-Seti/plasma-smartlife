@@ -1,0 +1,23 @@
+{
+  "_comment": "Should be in: metadata.json (root directory)",
+  "_author": "X-Seti Jan 2019, 2025 - metadata.json",
+  "_description": "SmartLife Controller Widget - Metadata",
+  
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "xseti@example.com",
+        "Name": "X-Seti"
+      }
+    ],
+    "Category": "System Information",
+    "Description": "Control SmartLife/Tuya devices on your network",
+    "Icon": "preferences-system-network-sharing",
+    "Id": "org.kde.plasma.smartlifecontroller",
+    "Name": "SmartLife Controller",
+    "Version": "1.0",
+    "Website": "https://github.com/x-seti/plasma-smartlife"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}

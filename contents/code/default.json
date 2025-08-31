@@ -1,0 +1,17 @@
+[
+  {
+    "_comment": "Should be in: contents/code/default.json",
+    "_author": "X-Seti Jan 2019, 2025 - default.json",
+    "_description": "SmartLife Controller Widget - Default Device Configuration",
+    
+    "id": 1,
+    "name": "Sample Light",
+    "ipAddress": "192.168.1.100",
+    "type": "light",
+    "state": false,
+    "brightness": 80,
+    "color": "#FFFFFF",
+    "timerOn": null,
+    "timerOff": null
+  }
+]
